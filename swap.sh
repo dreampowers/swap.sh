@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#Blog:https://www.moerats.com/
+#Blog:https://www.moerats.com
 
 Green="\033[32m"
 Font="\033[0m"
