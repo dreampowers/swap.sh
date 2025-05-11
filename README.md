@@ -1,6 +1,5 @@
 # swap.sh
-Linux VPS一键添加/删除Swap虚拟内存
-脚本来自 Moerats 大佬！
+Linux VPS一键添加/删除Swap虚拟内存/脚本来自 Moerats 大佬！
 
 说明：很多人的VPS服务器由于内存太小，会导致很多进程被杀掉，这时候就需要我们添加Swap虚拟内存了，这里就整了个一键脚本方便懒人使用。
 
