@@ -8,7 +8,7 @@ Linux VPS一键添加/删除Swap虚拟内存/脚本来自 Moerats 大佬！
 一键命令：
 
 ```
-wget https://raw.githubusercontent.com/NodeSuper/swap.sh/main/swap.sh && bash swap.sh
+wget https://raw.githubusercontent.com/dreampowers/swap.sh/main/swap.sh && bash swap.sh
 ```
 
 然后根据选项进行操作，记得添加swap的时候填写纯数字，默认单位为M。
